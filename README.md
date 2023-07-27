@@ -28,7 +28,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Moe-Counte)](https://github.com/MuyuDada/Moe-Counte)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=MuyuDada.github.io)](https://github.com/MuyuDada/MuyuDada.github.io)
 <br><br><br>
 
 ### Github 活跃度
