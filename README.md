@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:MuyuDada?theme=rule34">
 
-## 前端工程师—天平
+## 前端小白-牧屿
 
 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 
@@ -28,7 +28,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=mp4To4K-rust)](https://github.com/MuyuDada/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=mp4To4K-rust)](https://github.com/MuyuDada/Moe-Counte)
 <br><br><br>
 
 ### Github 活跃度
