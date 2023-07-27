@@ -28,7 +28,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=mp4To4K-rust)](https://github.com/MuyuDada/Moe-Counte)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Moe-Counte)](https://github.com/MuyuDada/Moe-Counte)
 <br><br><br>
 
 ### Github 活跃度
