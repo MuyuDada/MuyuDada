@@ -1,39 +1,48 @@
-name: generate animation
+name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 12 * * *" # every 6 hours
+    - cron: "0 0 * * *" # run daily at mignight UTC
+
   workflow_dispatch:
+
+  push:
+    branches:
+    - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            out/github-snake.svg
-            out/github-snake-dark.svg?palette=github-dark
-            out/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit files
-        run: |
-          git add out/
-          git config --local user.email "bot@nn.ci"
-          git config --local user.name "Bot"
-          git commit --allow-empty -m "update github-contribution-grid-snake.svg" -a
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: generate snake.svg
+      uses: Platane/snk@v3
+      with:
+        # github user name to read the contribution graph from (**required**)
+        # using action context var `github.repository_owner` or specified user
+        github_user_name: ${{ github.repository_owner }}
+
+        # list of files to generate.
+        # one file per line. Each output can be customized with options as query string.
+        #
+        #  supported options:
+        #  - palette:     A preset of color, one of [github, github-dark, github-light]
+        #  - color_snake: Color of the snake
+        #  - color_dots:  Coma separated list of dots color.
+        #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+        #                 Exactly 5 colors are expected.
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+    - name: Deploy to GitHub Pages
+      uses: crazy-max/ghaction-github-pages@v4
+      with:
+        target_branch: output
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
