@@ -4,6 +4,15 @@
 
 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 
+<!-- Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuyuDada/MuyuDada/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MuyuDada/MuyuDada/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" width="95%" />
+  </picture>
+</div>
+
 ### **社交主页：**
 
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
@@ -35,6 +44,4 @@ https://github.com/MuyuDada/Traditional-culture
 
 [![](https://activity-graph.herokuapp.com/graph?username=MuyuDada&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![MuyuDada's github stats](https://github-readme-stats.vercel.app/api?username=MuyuDada&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuyuDada&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuyuDada&layout=compact&langs_count=6)
