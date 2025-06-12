@@ -1,47 +1,50 @@
-<img align="right" src="https://count.getloli.com/get/@:MuyuDada?theme=rule34">
-
 ## 前端小白-牧屿
+
 
 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 
 <!-- Snake -->
-<div align="center">
+<img align="right" src="https://count.getloli.com/get/@:MuyuDada?theme=rule34">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuyuDada/MuyuDada/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/MuyuDada/MuyuDada/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" width="95%" />
+    <img alt="github-snake" src="github-snake.svg" width="65%" />
   </picture>
-</div>
+
 
 ### **社交主页：**
 
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="./images/code.gif" width="450" height="100%" />
 
 
-- <a
-    href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了
-30 篇技术文章，15万阅读。
+- <a href="https://space.bilibili.com/349764263"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站小UP主，数码发烧友。
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+ <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,html,javascript," width="55%" />
 
 ### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture)](https://github.com/MuyuDada/Traditional-culture)
-<br><br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
+  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" width="50%" />
+</picture>
+<br>
 https://github.com/MuyuDada/Traditional-culture
+
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=MuyuDada&theme=dracula)](https://github.com/MuyuDada/github-readme-activity-graph)
-![MuyuDada's github stats](https://github-readme-stats.vercel.app/api?username=MuyuDada&show_icons=true&theme=vue)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuyuDada&layout=compact&langs_count=6)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MuyuDada&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MuyuDada&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
+    <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=MuyuDada&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" width="50%" />
+  </picture>
+
+<!-- Streak Stats -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MuyuDada&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=MuyuDada&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" />
+    <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=MuyuDada&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" width="50%" />
+  </picture>
+
