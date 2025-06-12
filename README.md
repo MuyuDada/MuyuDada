@@ -42,6 +42,6 @@
 https://github.com/MuyuDada/Traditional-culture
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=MuyuDada&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=MuyuDada&theme=dracula)](https://github.com/MuyuDada/github-readme-activity-graph)
 ![MuyuDada's github stats](https://github-readme-stats.vercel.app/api?username=MuyuDada&show_icons=true&theme=vue)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuyuDada&layout=compact&langs_count=6)
