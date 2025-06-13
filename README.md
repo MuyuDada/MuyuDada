@@ -7,6 +7,8 @@
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5%ef%bc%81" alt="Hello World" title="Hello World"/>
 </p>
 
+<img align="right"  src="https://count.getloli.com/get/@:MuyuDada?theme=rule34">
+
 # 前端小白-牧屿
 
 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
@@ -24,9 +26,6 @@
 
 - <a href="https://space.bilibili.com/349764263"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站小UP主，数码发烧友。
 
-  <p align="right">
-<img  src="https://count.getloli.com/get/@:MuyuDada?theme=rule34" width="400">
-</p>
 
 ### **技术栈:**
 
