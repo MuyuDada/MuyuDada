@@ -56,7 +56,7 @@
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/MuyuDada"><img src="https://img.shields.io/badge/GitHub-MuyuDada-black?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/MuyuDada"><img src="https://img.shields.io/badge/Gitee-MuyuDada-orange?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%E7%89%A7%E5%B1%BF%E5%93%92%E5%93%92%E5%93%92-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://space.bilibili.com/349764263"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%E7%89%A7%E5%B1%BF%E5%93%92%E5%93%92%E5%93%92-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <a href="https://wakatime.com/@MuyuDada"><img src="https://wakatime.com/badge/user/8b356716-5a68-4915-9fe5-c1118ca2ade7.svg" alt="Wakatime" title="Wakatime" /></a>
 </p>
 
