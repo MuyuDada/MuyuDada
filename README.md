@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&&section=header&text=HI%20DEVELOPER&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20MuyuDada&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img width="1000" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&&section=header&text=HI%20DEVELOPER&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20MuyuDada&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -72,5 +72,5 @@ https://github.com/MuyuDada/Traditional-culture
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Embrace%20Open%20Source&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+    <img width="1000" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Embrace%20Open%20Source&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
