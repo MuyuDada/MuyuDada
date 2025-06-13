@@ -32,13 +32,9 @@
  <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,html,javascript," width="55%" />
 
 ### 开源项目
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
-  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" width="50%" />
-</picture>
-<br>
-https://github.com/MuyuDada/Traditional-culture
+<a href="https://github.com/MuyuDada/Traditional-culture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&theme=transparent&show_icons=true&hide_border=false&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+</a>
 
 ### Github 活跃度
 <p align="center">
