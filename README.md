@@ -48,11 +48,8 @@
     <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=MuyuDada&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="1000" src="https://github-profile-trophy.vercel.app/?username=MuyuDada&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-</p>
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Star History
 
@@ -63,6 +60,13 @@
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date" />
  </picture>
 </a>
+
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="1000" src="https://github-profile-trophy.vercel.app/?username=MuyuDada&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+</p>
+
 
 <p align="center">
     <!-- https://github.com/badges/shields --> 
