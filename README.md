@@ -13,7 +13,7 @@
 
 # 前端小白-牧屿
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+<img align="right"  src="/github-metrics.svg" width="100%"/>
 
 <!-- Snake -->
 <p align="center">
@@ -28,7 +28,6 @@
 
 - <a href="https://space.bilibili.com/349764263"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站小UP主，数码发烧友。
 
-
 ### **技术栈:**
 
  <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,html,javascript," width="55%" />
@@ -39,6 +38,7 @@
 </a>
 
 ### Github 活跃度
+
 <p align="center">
     <img width="500" src="https://github-readme-stats.vercel.app/api?username=MuyuDada&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
      <img width="500" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=MuyuDada&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
