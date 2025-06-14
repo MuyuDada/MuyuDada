@@ -56,13 +56,14 @@
 
 ## Star History
 
-<a href="https://www.star-history.com/#MuyuDada/MuyuDada&Timeline">
+<a href="https://www.star-history.com/#MuyuDada/Myblog&MuyuDada/MuyuDada&MuyuDada/Traditional-culture&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MuyuDada/MuyuDada&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MuyuDada/MuyuDada&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MuyuDada/MuyuDada&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Myblog,MuyuDada/MuyuDada,MuyuDada/Traditional-culture&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Myblog,MuyuDada/MuyuDada,MuyuDada/Traditional-culture&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MuyuDada/Myblog,MuyuDada/MuyuDada,MuyuDada/Traditional-culture&type=Date" />
  </picture>
 </a>
+
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/MuyuDada"><img src="https://img.shields.io/badge/GitHub-MuyuDada-black?logo=github" alt="GitHub" title="GitHub" /></a>
