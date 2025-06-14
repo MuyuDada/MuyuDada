@@ -12,9 +12,9 @@
 <img align="right"  src="https://count.getloli.com/get/@:MuyuDada?theme=rule34">
 
 # 前端小白-牧屿
-
+<img width="200%" src="./images/hr.gif" />
 <img align="right"  src="/github-metrics.svg" width="100%"/>
-
+<img width="200%" src="./images/hr.gif" />
 <!-- Snake -->
 <p align="center">
   <picture>
@@ -27,15 +27,18 @@
 ### **社交主页：**
 
 - <a href="https://space.bilibili.com/349764263"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站小UP主，数码发烧友。
+<img width="200%" src="./images/hr.gif" />
 
 ### **技术栈:**
 
  <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,html,javascript," width="55%" />
+<img width="200%" src="./images/hr.gif" />
 
 ### 开源项目
 <a href="https://github.com/MuyuDada/Traditional-culture">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&theme=transparent&show_icons=true&hide_border=false&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
 </a>
+<img width="200%" src="./images/hr.gif" />
 
 ### Github 活跃度
 
@@ -43,16 +46,22 @@
     <img width="500" src="https://github-readme-stats.vercel.app/api?username=MuyuDada&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
      <img width="500" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=MuyuDada&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
+
+<img width="200%" src="./images/hr.gif" />
+
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=MuyuDada&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
+<img width="200%" src="./images/hr.gif" />
+
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## Star History
+<img width="200%" src="./images/hr.gif" />
 
+<p align="center">
 <a href="https://www.star-history.com/#MuyuDada/Traditional-culture&MuyuDada/Myblog&MuyuDada/MuyuDada&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date&theme=dark" />
@@ -60,6 +69,9 @@
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date" />
  </picture>
 </a>
+</p>
+
+<img width="200%" src="./images/hr.gif" />
 
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
@@ -67,6 +79,7 @@
     <img width="1000" src="https://github-profile-trophy.vercel.app/?username=MuyuDada&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 
+<img width="200%" src="./images/hr.gif" />
 
 <p align="center">
     <!-- https://github.com/badges/shields --> 
