@@ -56,15 +56,11 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MuyuDada/Myblog,MuyuDada/MuyuDada,MuyuDada/Traditional-culture&type=Timeline)](https://www.star-history.com/#MuyuDada/Myblog&MuyuDada/MuyuDada&MuyuDada/Traditional-culture&Timeline)
-
-## Star History
-
-<a href="https://www.star-history.com/#MuyuDada/Myblog&MuyuDada/MuyuDada&MuyuDada/Traditional-culture&Timeline">
+<a href="https://www.star-history.com/#MuyuDada/Traditional-culture&MuyuDada/Myblog&MuyuDada/MuyuDada&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Myblog,MuyuDada/MuyuDada,MuyuDada/Traditional-culture&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Myblog,MuyuDada/MuyuDada,MuyuDada/Traditional-culture&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MuyuDada/Myblog,MuyuDada/MuyuDada,MuyuDada/Traditional-culture&type=Timeline" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date" />
  </picture>
 </a>
 
