@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5%ef%bc%81" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+Github+%E4%B8%BB%E9%A1%B5%EF%BC%81;Welcome+to+my+GitHub+profile+page!;%F0%9F%9A%80+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%87%E5%AE%99%EF%BC%81;%F0%9F%9A%80++Welcome+to+my+code+universe!;%F0%9F%8E%AF+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+MuyuDada%EF%BC%81;%F0%9F%8E%AF+Hello%2C+I+am+MuyuDada!" alt="Hello World" title="Hello World"/>
 </p>
 
 ![](./images/header_.png)
