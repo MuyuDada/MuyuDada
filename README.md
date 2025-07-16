@@ -31,7 +31,7 @@
 
 ### **技术栈:**
 
- <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,html,javascript," width="55%" />
+ <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,html,js,ts,react,vue,css,nodejs,git," width="55%" />
 <img width="200%" src="./images/hr.gif" />
 
 ### 开源项目
