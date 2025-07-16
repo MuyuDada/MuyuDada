@@ -2,6 +2,11 @@
     <!-- https://github.com/kyechan99/capsule-render -->
     <img width="1000" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&&section=header&text=HI%20DEVELOPER&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20MuyuDada&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/MuyuDada.png" width="120" style="border-radius:50%;box-shadow:0 0 20px #36BCF7;">
+</p>
+
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+Github+%E4%B8%BB%E9%A1%B5%EF%BC%81;Welcome+to+my+GitHub+profile+page!;%F0%9F%9A%80+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%87%E5%AE%99%EF%BC%81;%F0%9F%9A%80++Welcome+to+my+code+universe!;%F0%9F%8E%AF+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+MuyuDada%EF%BC%81;%F0%9F%8E%AF+Hello%2C+I+am+MuyuDada!" alt="Hello World" title="Hello World"/>
@@ -29,18 +34,19 @@
 - <a href="https://space.bilibili.com/349764263"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站小UP主，数码发烧友。
 <img width="200%" src="./images/hr.gif" />
 
-### **技术栈:**
+### **🛠技术栈:**
 
  <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,html,js,ts,react,vue,css,nodejs,git," width="55%" />
 <img width="200%" src="./images/hr.gif" />
 
-### 开源项目
+### 🔥 开源项目
+
 <a href="https://github.com/MuyuDada/Traditional-culture">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&theme=transparent&show_icons=true&hide_border=false&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
 </a>
 <img width="200%" src="./images/hr.gif" />
 
-### Github 活跃度
+### 📈 Github 活跃度
 
 <p align="center">
     <img width="500" src="https://github-readme-stats.vercel.app/api?username=MuyuDada&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
@@ -48,6 +54,17 @@
 </p>
 
 <img width="200%" src="./images/hr.gif" />
+
+### 🌱 成长足迹
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuyuDada&theme=radical&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuyuDada&theme=radical" />
+</p>
+
+<img width="200%" src="./images/hr.gif" />
+
+### 📅 活跃日历
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -72,6 +89,8 @@
 </p>
 
 <img width="200%" src="./images/hr.gif" />
+
+### 🏆 个人成就
 
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
