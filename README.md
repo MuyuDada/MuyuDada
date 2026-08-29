@@ -90,13 +90,14 @@
 
 <img width="200%" src="./images/hr.gif" />
 
-### 🏆 个人成就
+### 🏆 个人评分
 
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="1000" src="https://github-profile-trophy.vercel.app/?username=MuyuDada&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-</p>
+<a href="https://ghfind.com/u/muyudada?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/muyudada?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/muyudada?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="200%" />
+  </picture>
+</a>
 
 <img width="200%" src="./images/hr.gif" />
 
