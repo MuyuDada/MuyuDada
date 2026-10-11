@@ -42,8 +42,18 @@
 ### 🔥 开源项目
 
 <a href="https://github.com/MuyuDada/Traditional-culture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&theme=transparent&show_icons=true&hide_border=false&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MuyuDada&repo=Traditional-culture&theme=transparent&show_icons=true&hide_border=false&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
 </a>
+<a href="https://github.com/MuyuDada/The-daily-mail">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MuyuDada&repo=The-daily-mail&theme=transparent&show_icons=true&hide_border=false&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+</a>
+<a href="https://github.com/MuyuDada/VGNKeyboardBattery">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MuyuDada&repo=VGNKeyboardBattery&theme=transparent&show_icons=true&hide_border=false&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+</a>
+<a href="https://github.com/MuyuDada/widget">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MuyuDada&repo=widget&theme=transparent&show_icons=true&hide_border=false&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+</a>
+
 <img width="200%" src="./images/hr.gif" />
 
 ### 📈 Github 活跃度
