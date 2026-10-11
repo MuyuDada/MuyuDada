@@ -76,8 +76,6 @@
 
 ### 📅 活跃日历
 
-
-
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=MuyuDada&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
@@ -90,12 +88,14 @@
 
 <img width="200%" src="./images/hr.gif" />
 
+### ⭐ Star History
+
 <p align="center">
-<a href="https://www.star-history.com/#MuyuDada/Traditional-culture&MuyuDada/Myblog&MuyuDada/MuyuDada&Date">
+<a href="https://www.star-history.com/?repos=MuyuDada%2FTraditional-culture%2CMuyuDada%2FMuyuDada%2Cmuyudada%2Fthe-daily-mail%2Cmuyudada%2Fsmart-notes&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MuyuDada/Traditional-culture,MuyuDada/Myblog,MuyuDada/MuyuDada&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MuyuDada/Traditional-culture%2CMuyuDada/MuyuDada%2Cmuyudada/the-daily-mail%2Cmuyudada/smart-notes&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MuyuDada/Traditional-culture%2CMuyuDada/MuyuDada%2Cmuyudada/the-daily-mail%2Cmuyudada/smart-notes&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MuyuDada/Traditional-culture%2CMuyuDada/MuyuDada%2Cmuyudada/the-daily-mail%2Cmuyudada/smart-notes&type=date&legend=top-left" />
  </picture>
 </a>
 </p>
