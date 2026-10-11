@@ -97,7 +97,7 @@
 <a href="https://ghfind.com/u/muyudada?ref=badge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/muyudada?theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/muyudada?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    <img src="https://ghfind.com/api/card/mini/muyudada?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="100%" />
   </picture>
 </a>
 
