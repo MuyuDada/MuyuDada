@@ -96,12 +96,10 @@
 
 <a href="https://ghfind.com/u/muyudada?ref=badge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/muyudada?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/muyudada?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="200%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/muyudada?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/muyudada?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
-
-[![@micok2003 vs @muyudada — GitHub Roast](https://ghfind.com/api/card/vs/micok2003/muyudada)](https://ghfind.com/vs/micok2003/muyudada?ref=vscard)
 
 <img width="200%" src="./images/hr.gif" />
 
